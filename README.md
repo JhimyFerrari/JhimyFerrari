@@ -2,7 +2,6 @@
 - 🔭 I’m currently an internship at Uol Compass
 - 🌱 I’m currently learning React
 - 🎸 I´m musician _ Violin, Bass and French Horn
-- 💬 Ask me about ...
 - 📫 How to reach me: email - Souzaferrarik@gmail.com
 
 <!--
