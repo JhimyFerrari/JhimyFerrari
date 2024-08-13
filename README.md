@@ -1,7 +1,7 @@
 ### Hi there, I'm Jhimy Ferrari 👋
 -  I have a degree in IT technician
 -  I'm studying systems analysis and development
--  I’m currently learning React
+-  I’m currently learning React and Laravel
 -  I´m musician _ Violin, Bass and French Horn
 -  How to reach me: email - Souzaferrarik@gmail.com
 
